@@ -1,0 +1,12 @@
+NAMESPACE,NAME,SERVICE_ACCOUNT,IP,NODE_NAME
+"plane-ns","my-plane-admin-wl-5467777878-r6hzb","my-plane-srv-account","10.244.1.7","plane-cluster-worker"
+"plane-ns","my-plane-api-migrate-1-j6dxf","my-plane-srv-account",,"plane-cluster-worker"
+"plane-ns","my-plane-api-wl-84ff7cd7d7-ft2fm","my-plane-srv-account","10.244.1.9","plane-cluster-worker"
+"plane-ns","my-plane-beat-worker-wl-69d7649c5b-tcx2x","my-plane-srv-account","10.244.1.11","plane-cluster-worker"
+"plane-ns","my-plane-minio-bucket-8g6ww","my-plane-srv-account",,"plane-cluster-worker"
+"plane-ns","my-plane-minio-wl-0","my-plane-srv-account","10.244.1.10","plane-cluster-worker"
+"plane-ns","my-plane-pgdb-wl-0","my-plane-srv-account","10.244.1.12","plane-cluster-worker"
+"plane-ns","my-plane-redis-wl-0","my-plane-srv-account","10.244.1.8","plane-cluster-worker"
+"plane-ns","my-plane-space-wl-6d89cfc49f-55qgr","my-plane-srv-account","10.244.1.6","plane-cluster-worker"
+"plane-ns","my-plane-web-wl-5b8b465c5-gn75l","my-plane-srv-account","10.244.1.2","plane-cluster-worker"
+"plane-ns","my-plane-worker-wl-79d68fc7b7-p2sp2","my-plane-srv-account","10.244.1.3","plane-cluster-worker"
